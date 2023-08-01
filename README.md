@@ -1,1 +1,1 @@
-# semantic-search-with-faiss
+# semantic-search
